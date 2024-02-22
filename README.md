@@ -1,5 +1,7 @@
 # C library functions
 
+The libft is the first project in C aimed at introducing us to low-level programming. It's a library that contains all the practical standard functions we'll need for our future projects in the curriculum.
+
 | Parts           | List of functions                                                                                                                                                                                |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Basic functions | isalpha, isdigit, isalnum, isascii, isprint, strlen, memset, bzero, memcpy, memmove, strlcpy, strlcat, toupper, tolower, strchr, strrchr, strncmp, memchr, memcmp, strnstr, atoi, calloc, strdup | <a href="#"><img src="https://img.shields.io/badge/Completado-green?style=for-the-badge"></a> |
